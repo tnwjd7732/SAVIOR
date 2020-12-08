@@ -14,6 +14,7 @@ SAVIOR는 엣지 서버를 사용자와 물리적으로 가까이 위치시키�
 
 #### 기술 블로그
 NS-3 Tutorial 스터디 https://jaewonee.tistory.com/2
+
 NS-3 & SUMO 개발과정 https://crystalbang.tistory.com/1
 #### License
 
